@@ -1,0 +1,22 @@
+.timertext{
+    font-size: 50px;
+    color: rgb(32, 48, 51);
+}
+
+.timeput{
+    width: 80px;
+    font-weight: bold;
+}
+
+.bg {
+    background: rgb(179, 206, 207);
+}
+.timer_btn{
+    height: 60px;
+    width: 70px;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin: 20px;
+    
+
+}
