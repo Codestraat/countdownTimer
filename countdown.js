@@ -49,7 +49,7 @@
         } else if (ring){
             $('#audio')[0].play();
             clearInterval(stopinterval);
-            console.log('Time is finished');
+            alert('Time is finished');
             count = false;
 
         }
