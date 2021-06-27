@@ -13,7 +13,7 @@
     var stopinterval;
 
     const sec_count = 59;
-    const hrs_count = 24;
+    
 
     function time_show(){
         if (sec < 10) {
